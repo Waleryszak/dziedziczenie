@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\bin\Debug\net7.0\Odtwarzacz.exe
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\bin\Debug\net7.0\Odtwarzacz.deps.json
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\bin\Debug\net7.0\Odtwarzacz.runtimeconfig.json
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\bin\Debug\net7.0\Odtwarzacz.dll
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\bin\Debug\net7.0\Odtwarzacz.pdb
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\obj\Debug\net7.0\Odtwarzacz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\obj\Debug\net7.0\Odtwarzacz.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\obj\Debug\net7.0\Odtwarzacz.AssemblyInfo.cs
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\obj\Debug\net7.0\Odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\obj\Debug\net7.0\Odtwarzacz.dll
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\obj\Debug\net7.0\refint\Odtwarzacz.dll
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\obj\Debug\net7.0\Odtwarzacz.pdb
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\obj\Debug\net7.0\Odtwarzacz.genruntimeconfig.cache
+C:\Users\Student\Desktop\Odtwarzacz\Odtwarzacz\obj\Debug\net7.0\ref\Odtwarzacz.dll
