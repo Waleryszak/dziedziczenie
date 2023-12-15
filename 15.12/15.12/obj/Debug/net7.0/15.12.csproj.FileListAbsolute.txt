@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\15.12\15.12\bin\Debug\net7.0\15.12.exe
+C:\Users\Student\Desktop\15.12\15.12\bin\Debug\net7.0\15.12.deps.json
+C:\Users\Student\Desktop\15.12\15.12\bin\Debug\net7.0\15.12.runtimeconfig.json
+C:\Users\Student\Desktop\15.12\15.12\bin\Debug\net7.0\15.12.dll
+C:\Users\Student\Desktop\15.12\15.12\bin\Debug\net7.0\15.12.pdb
+C:\Users\Student\Desktop\15.12\15.12\obj\Debug\net7.0\15.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\15.12\15.12\obj\Debug\net7.0\15.12.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\15.12\15.12\obj\Debug\net7.0\15.12.AssemblyInfo.cs
+C:\Users\Student\Desktop\15.12\15.12\obj\Debug\net7.0\15.12.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\15.12\15.12\obj\Debug\net7.0\15.12.dll
+C:\Users\Student\Desktop\15.12\15.12\obj\Debug\net7.0\refint\15.12.dll
+C:\Users\Student\Desktop\15.12\15.12\obj\Debug\net7.0\15.12.pdb
+C:\Users\Student\Desktop\15.12\15.12\obj\Debug\net7.0\15.12.genruntimeconfig.cache
+C:\Users\Student\Desktop\15.12\15.12\obj\Debug\net7.0\ref\15.12.dll
