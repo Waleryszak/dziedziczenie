@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\bin\Debug\net7.0\serializacja i deserializacja.exe
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\bin\Debug\net7.0\serializacja i deserializacja.deps.json
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\bin\Debug\net7.0\serializacja i deserializacja.runtimeconfig.json
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\bin\Debug\net7.0\serializacja i deserializacja.dll
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\bin\Debug\net7.0\serializacja i deserializacja.pdb
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\obj\Debug\net7.0\serializacja i deserializacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\obj\Debug\net7.0\serializacja i deserializacja.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\obj\Debug\net7.0\serializacja i deserializacja.AssemblyInfo.cs
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\obj\Debug\net7.0\serializacja i deserializacja.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\obj\Debug\net7.0\serializacja i deserializacja.dll
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\obj\Debug\net7.0\refint\serializacja i deserializacja.dll
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\obj\Debug\net7.0\serializacja i deserializacja.pdb
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\obj\Debug\net7.0\serializacja i deserializacja.genruntimeconfig.cache
+C:\Users\Student\Desktop\serializacja i deserializacja\serializacja i deserializacja\obj\Debug\net7.0\ref\serializacja i deserializacja.dll
